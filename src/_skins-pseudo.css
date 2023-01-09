@@ -234,3 +234,231 @@
 .hover-bg-washed-red:focus { background-color: var(--washed-red); }
 .hover-bg-inherit:hover,
 .hover-bg-inherit:focus { background-color: inherit; }
+
+.dark-mode .dm-hover-black:hover,
+.dark-mode .dm-hover-black:focus { color: var(--black); }
+.dark-mode .dm-hover-near-black:hover,
+.dark-mode .dm-hover-near-black:focus { color: var(--near-black); }
+.dark-mode .dm-hover-dark-gray:hover,
+.dark-mode .dm-hover-dark-gray:focus { color: var(--dark-gray); }
+.dark-mode .dm-hover-mid-gray:hover,
+.dark-mode .dm-hover-mid-gray:focus { color: var(--mid-gray); }
+.dark-mode .dm-hover-gray:hover,
+.dark-mode .dm-hover-gray:focus { color: var(--gray); }
+.dark-mode .dm-hover-silver:hover,
+.dark-mode .dm-hover-silver:focus { color: var(--silver); }
+.dark-mode .dm-hover-light-silver:hover,
+.dark-mode .dm-hover-light-silver:focus { color: var(--light-silver); }
+.dark-mode .dm-hover-moon-gray:hover,
+.dark-mode .dm-hover-moon-gray:focus { color: var(--moon-gray); }
+.dark-mode .dm-hover-light-gray:hover,
+.dark-mode .dm-hover-light-gray:focus { color: var(--light-gray); }
+.dark-mode .dm-hover-near-white:hover,
+.dark-mode .dm-hover-near-white:focus { color: var(--near-white); }
+.dark-mode .dm-hover-white:hover,
+.dark-mode .dm-hover-white:focus { color: var(--white); }
+
+.dark-mode .dm-hover-black-90:hover,
+.dark-mode .dm-hover-black-90:focus { color: var(--black-90); }
+.dark-mode .dm-hover-black-80:hover,
+.dark-mode .dm-hover-black-80:focus { color: var(--black-80); }
+.dark-mode .dm-hover-black-70:hover,
+.dark-mode .dm-hover-black-70:focus { color: var(--black-70); }
+.dark-mode .dm-hover-black-60:hover,
+.dark-mode .dm-hover-black-60:focus { color: var(--black-60); }
+.dark-mode .dm-hover-black-50:hover,
+.dark-mode .dm-hover-black-50:focus { color: var(--black-50); }
+.dark-mode .dm-hover-black-40:hover,
+.dark-mode .dm-hover-black-40:focus { color: var(--black-40); }
+.dark-mode .dm-hover-black-30:hover,
+.dark-mode .dm-hover-black-30:focus { color: var(--black-30); }
+.dark-mode .dm-hover-black-20:hover,
+.dark-mode .dm-hover-black-20:focus { color: var(--black-20); }
+.dark-mode .dm-hover-black-10:hover,
+.dark-mode .dm-hover-black-10:focus { color: var(--black-10); }
+.dark-mode .dm-hover-white-90:hover,
+.dark-mode .dm-hover-white-90:focus { color: var(--white-90); }
+.dark-mode .dm-hover-white-80:hover,
+.dark-mode .dm-hover-white-80:focus { color: var(--white-80); }
+.dark-mode .dm-hover-white-70:hover,
+.dark-mode .dm-hover-white-70:focus { color: var(--white-70); }
+.dark-mode .dm-hover-white-60:hover,
+.dark-mode .dm-hover-white-60:focus { color: var(--white-60); }
+.dark-mode .dm-hover-white-50:hover,
+.dark-mode .dm-hover-white-50:focus { color: var(--white-50); }
+.dark-mode .dm-hover-white-40:hover,
+.dark-mode .dm-hover-white-40:focus { color: var(--white-40); }
+.dark-mode .dm-hover-white-30:hover,
+.dark-mode .dm-hover-white-30:focus { color: var(--white-30); }
+.dark-mode .dm-hover-white-20:hover,
+.dark-mode .dm-hover-white-20:focus { color: var(--white-20); }
+.dark-mode .dm-hover-white-10:hover,
+.dark-mode .dm-hover-white-10:focus { color: var(--white-10); }
+.dark-mode .dm-hover-inherit:hover,
+.dark-mode .dm-hover-inherit:focus { color: inherit; }
+
+.dark-mode .dm-hover-bg-black:hover,
+.dark-mode .dm-hover-bg-black:focus { background-color: var(--black); }
+.dark-mode .dm-hover-bg-near-black:hover,
+.dark-mode .dm-hover-bg-near-black:focus { background-color: var(--near-black); }
+.dark-mode .dm-hover-bg-dark-gray:hover,
+.dark-mode .dm-hover-bg-dark-gray:focus { background-color: var(--dark-gray); }
+.dark-mode .dm-hover-bg-mid-gray:hover,
+.dark-mode .dm-hover-bg-mid-gray:focus { background-color: var(--mid-gray); }
+.dark-mode .dm-hover-bg-gray:hover,
+.dark-mode .dm-hover-bg-gray:focus { background-color: var(--gray); }
+.dark-mode .dm-hover-bg-silver:hover,
+.dark-mode .dm-hover-bg-silver:focus { background-color: var(--silver); }
+.dark-mode .dm-hover-bg-light-silver:hover,
+.dark-mode .dm-hover-bg-light-silver:focus { background-color: var(--light-silver); }
+.dark-mode .dm-hover-bg-moon-gray:hover,
+.dark-mode .dm-hover-bg-moon-gray:focus { background-color: var(--moon-gray); }
+.dark-mode .dm-hover-bg-light-gray:hover,
+.dark-mode .dm-hover-bg-light-gray:focus { background-color: var(--light-gray); }
+.dark-mode .dm-hover-bg-near-white:hover,
+.dark-mode .dm-hover-bg-near-white:focus { background-color: var(--near-white); }
+.dark-mode .dm-hover-bg-white:hover,
+.dark-mode .dm-hover-bg-white:focus { background-color: var(--white); }
+.dark-mode .dm-hover-bg-transparent:hover,
+.dark-mode .dm-hover-bg-transparent:focus { background-color: var(--transparent); }
+
+.dark-mode .dm-hover-bg-black-90:hover,
+.dark-mode .dm-hover-bg-black-90:focus { background-color: var(--black-90); }
+.dark-mode .dm-hover-bg-black-80:hover,
+.dark-mode .dm-hover-bg-black-80:focus { background-color: var(--black-80); }
+.dark-mode .dm-hover-bg-black-70:hover,
+.dark-mode .dm-hover-bg-black-70:focus { background-color: var(--black-70); }
+.dark-mode .dm-hover-bg-black-60:hover,
+.dark-mode .dm-hover-bg-black-60:focus { background-color: var(--black-60); }
+.dark-mode .dm-hover-bg-black-50:hover,
+.dark-mode .dm-hover-bg-black-50:focus { background-color: var(--black-50); }
+.dark-mode .dm-hover-bg-black-40:hover,
+.dark-mode .dm-hover-bg-black-40:focus { background-color: var(--black-40); }
+.dark-mode .dm-hover-bg-black-30:hover,
+.dark-mode .dm-hover-bg-black-30:focus { background-color: var(--black-30); }
+.dark-mode .dm-hover-bg-black-20:hover,
+.dark-mode .dm-hover-bg-black-20:focus { background-color: var(--black-20); }
+.dark-mode .dm-hover-bg-black-10:hover,
+.dark-mode .dm-hover-bg-black-10:focus { background-color: var(--black-10); }
+.dark-mode .dm-hover-bg-white-90:hover,
+.dark-mode .dm-hover-bg-white-90:focus { background-color: var(--white-90); }
+.dark-mode .dm-hover-bg-white-80:hover,
+.dark-mode .dm-hover-bg-white-80:focus { background-color: var(--white-80); }
+.dark-mode .dm-hover-bg-white-70:hover,
+.dark-mode .dm-hover-bg-white-70:focus { background-color: var(--white-70); }
+.dark-mode .dm-hover-bg-white-60:hover,
+.dark-mode .dm-hover-bg-white-60:focus { background-color: var(--white-60); }
+.dark-mode .dm-hover-bg-white-50:hover,
+.dark-mode .dm-hover-bg-white-50:focus { background-color: var(--white-50); }
+.dark-mode .dm-hover-bg-white-40:hover,
+.dark-mode .dm-hover-bg-white-40:focus { background-color: var(--white-40); }
+.dark-mode .dm-hover-bg-white-30:hover,
+.dark-mode .dm-hover-bg-white-30:focus { background-color: var(--white-30); }
+.dark-mode .dm-hover-bg-white-20:hover,
+.dark-mode .dm-hover-bg-white-20:focus { background-color: var(--white-20); }
+.dark-mode .dm-hover-bg-white-10:hover,
+.dark-mode .dm-hover-bg-white-10:focus { background-color: var(--white-10); }
+
+.dark-mode .dm-hover-dark-red:hover,
+.dark-mode .dm-hover-dark-red:focus { color: var(--dark-red); }
+.dark-mode .dm-hover-red:hover,
+.dark-mode .dm-hover-red:focus { color: var(--red); }
+.dark-mode .dm-hover-light-red:hover,
+.dark-mode .dm-hover-light-red:focus { color: var(--light-red); }
+.dark-mode .dm-hover-orange:hover,
+.dark-mode .dm-hover-orange:focus { color: var(--orange); }
+.dark-mode .dm-hover-gold:hover,
+.dark-mode .dm-hover-gold:focus { color: var(--gold); }
+.dark-mode .dm-hover-yellow:hover,
+.dark-mode .dm-hover-yellow:focus { color: var(--yellow); }
+.dark-mode .dm-hover-light-yellow:hover,
+.dark-mode .dm-hover-light-yellow:focus { color: var(--light-yellow); }
+.dark-mode .dm-hover-purple:hover,
+.dark-mode .dm-hover-purple:focus { color: var(--purple); }
+.dark-mode .dm-hover-light-purple:hover,
+.dark-mode .dm-hover-light-purple:focus { color: var(--light-purple); }
+.dark-mode .dm-hover-dark-pink:hover,
+.dark-mode .dm-hover-dark-pink:focus { color: var(--dark-pink); }
+.dark-mode .dm-hover-hot-pink:hover,
+.dark-mode .dm-hover-hot-pink:focus { color: var(--hot-pink); }
+.dark-mode .dm-hover-pink:hover,
+.dark-mode .dm-hover-pink:focus { color: var(--pink); }
+.dark-mode .dm-hover-light-pink:hover,
+.dark-mode .dm-hover-light-pink:focus { color: var(--light-pink); }
+.dark-mode .dm-hover-dark-green:hover,
+.dark-mode .dm-hover-dark-green:focus { color: var(--dark-green); }
+.dark-mode .dm-hover-green:hover,
+.dark-mode .dm-hover-green:focus { color: var(--green); }
+.dark-mode .dm-hover-light-green:hover,
+.dark-mode .dm-hover-light-green:focus { color: var(--light-green); }
+.dark-mode .dm-hover-navy:hover,
+.dark-mode .dm-hover-navy:focus { color: var(--navy); }
+.dark-mode .dm-hover-dark-blue:hover,
+.dark-mode .dm-hover-dark-blue:focus { color: var(--dark-blue); }
+.dark-mode .dm-hover-blue:hover,
+.dark-mode .dm-hover-blue:focus { color: var(--blue); }
+.dark-mode .dm-hover-light-blue:hover,
+.dark-mode .dm-hover-light-blue:focus { color: var(--light-blue); }
+.dark-mode .dm-hover-lightest-blue:hover,
+.dark-mode .dm-hover-lightest-blue:focus { color: var(--lightest-blue); }
+.dark-mode .dm-hover-washed-blue:hover,
+.dark-mode .dm-hover-washed-blue:focus { color: var(--washed-blue); }
+.dark-mode .dm-hover-washed-green:hover,
+.dark-mode .dm-hover-washed-green:focus { color: var(--washed-green); }
+.dark-mode .dm-hover-washed-yellow:hover,
+.dark-mode .dm-hover-washed-yellow:focus { color: var(--washed-yellow); }
+.dark-mode .dm-hover-washed-red:hover,
+.dark-mode .dm-hover-washed-red:focus { color: var(--washed-red); }
+
+.dark-mode .dm-hover-bg-dark-red:hover,
+.dark-mode .dm-hover-bg-dark-red:focus { background-color: var(--dark-red); }
+.dark-mode .dm-hover-bg-red:hover,
+.dark-mode .dm-hover-bg-red:focus { background-color: var(--red); }
+.dark-mode .dm-hover-bg-light-red:hover,
+.dark-mode .dm-hover-bg-light-red:focus { background-color: var(--light-red); }
+.dark-mode .dm-hover-bg-orange:hover,
+.dark-mode .dm-hover-bg-orange:focus { background-color: var(--orange); }
+.dark-mode .dm-hover-bg-gold:hover,
+.dark-mode .dm-hover-bg-gold:focus { background-color: var(--gold); }
+.dark-mode .dm-hover-bg-yellow:hover,
+.dark-mode .dm-hover-bg-yellow:focus { background-color: var(--yellow); }
+.dark-mode .dm-hover-bg-light-yellow:hover,
+.dark-mode .dm-hover-bg-light-yellow:focus { background-color: var(--light-yellow); }
+.dark-mode .dm-hover-bg-purple:hover,
+.dark-mode .dm-hover-bg-purple:focus { background-color: var(--purple); }
+.dark-mode .dm-hover-bg-light-purple:hover,
+.dark-mode .dm-hover-bg-light-purple:focus { background-color: var(--light-purple); }
+.dark-mode .dm-hover-bg-dark-pink:hover,
+.dark-mode .dm-hover-bg-dark-pink:focus { background-color: var(--dark-pink); }
+.dark-mode .dm-hover-bg-hot-pink:hover,
+.dark-mode .dm-hover-bg-hot-pink:focus { background-color: var(--hot-pink); }
+.dark-mode .dm-hover-bg-pink:hover,
+.dark-mode .dm-hover-bg-pink:focus { background-color: var(--pink); }
+.dark-mode .dm-hover-bg-light-pink:hover,
+.dark-mode .dm-hover-bg-light-pink:focus { background-color: var(--light-pink); }
+.dark-mode .dm-hover-bg-dark-green:hover,
+.dark-mode .dm-hover-bg-dark-green:focus { background-color: var(--dark-green); }
+.dark-mode .dm-hover-bg-green:hover,
+.dark-mode .dm-hover-bg-green:focus { background-color: var(--green); }
+.dark-mode .dm-hover-bg-light-green:hover,
+.dark-mode .dm-hover-bg-light-green:focus { background-color: var(--light-green); }
+.dark-mode .dm-hover-bg-navy:hover,
+.dark-mode .dm-hover-bg-navy:focus { background-color: var(--navy); }
+.dark-mode .dm-hover-bg-dark-blue:hover,
+.dark-mode .dm-hover-bg-dark-blue:focus { background-color: var(--dark-blue); }
+.dark-mode .dm-hover-bg-blue:hover,
+.dark-mode .dm-hover-bg-blue:focus { background-color: var(--blue); }
+.dark-mode .dm-hover-bg-light-blue:hover,
+.dark-mode .dm-hover-bg-light-blue:focus { background-color: var(--light-blue); }
+.dark-mode .dm-hover-bg-lightest-blue:hover,
+.dark-mode .dm-hover-bg-lightest-blue:focus { background-color: var(--lightest-blue); }
+.dark-mode .dm-hover-bg-washed-blue:hover,
+.dark-mode .dm-hover-bg-washed-blue:focus { background-color: var(--washed-blue); }
+.dark-mode .dm-hover-bg-washed-green:hover,
+.dark-mode .dm-hover-bg-washed-green:focus { background-color: var(--washed-green); }
+.dark-mode .dm-hover-bg-washed-yellow:hover,
+.dark-mode .dm-hover-bg-washed-yellow:focus { background-color: var(--washed-yellow); }
+.dark-mode .dm-hover-bg-washed-red:hover,
+.dark-mode .dm-hover-bg-washed-red:focus { background-color: var(--washed-red); }
+.dark-mode .dm-hover-bg-inherit:hover,
+.dark-mode .dm-hover-bg-inherit:focus { background-color: inherit; }
