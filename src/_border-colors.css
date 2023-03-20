@@ -86,3 +86,72 @@
 .b--inherit { border-color: inherit; }
 .b--initial { border-color: initial; }
 .b--unset { border-color: unset; }
+
+.dark-mode .dm-b--black {        border-color: var(--black); }
+.dark-mode .dm-b--near-black {   border-color: var(--near-black); }
+.dark-mode .dm-b--dark-gray {    border-color: var(--dark-gray); }
+.dark-mode .dm-b--mid-gray {     border-color: var(--mid-gray); }
+.dark-mode .dm-b--gray {         border-color: var(--gray); }
+.dark-mode .dm-b--silver {       border-color: var(--silver); }
+.dark-mode .dm-b--light-silver { border-color: var(--light-silver); }
+.dark-mode .dm-b--moon-gray {    border-color: var(--moon-gray); }
+.dark-mode .dm-b--light-gray {   border-color: var(--light-gray); }
+.dark-mode .dm-b--near-white {   border-color: var(--near-white); }
+.dark-mode .dm-b--white {        border-color: var(--white); }
+
+.dark-mode .dm-b--white-90 {   border-color: var(--white-90); }
+.dark-mode .dm-b--white-80 {   border-color: var(--white-80); }
+.dark-mode .dm-b--white-70 {   border-color: var(--white-70); }
+.dark-mode .dm-b--white-60 {   border-color: var(--white-60); }
+.dark-mode .dm-b--white-50 {   border-color: var(--white-50); }
+.dark-mode .dm-b--white-40 {   border-color: var(--white-40); }
+.dark-mode .dm-b--white-30 {   border-color: var(--white-30); }
+.dark-mode .dm-b--white-20 {   border-color: var(--white-20); }
+.dark-mode .dm-b--white-10 {   border-color: var(--white-10); }
+.dark-mode .dm-b--white-05 {   border-color: var(--white-05); }
+.dark-mode .dm-b--white-025 {   border-color: var(--white-025); }
+.dark-mode .dm-b--white-0125 {   border-color: var(--white-0125); }
+
+.dark-mode .dm-b--black-90 {   border-color: var(--black-90); }
+.dark-mode .dm-b--black-80 {   border-color: var(--black-80); }
+.dark-mode .dm-b--black-70 {   border-color: var(--black-70); }
+.dark-mode .dm-b--black-60 {   border-color: var(--black-60); }
+.dark-mode .dm-b--black-50 {   border-color: var(--black-50); }
+.dark-mode .dm-b--black-40 {   border-color: var(--black-40); }
+.dark-mode .dm-b--black-30 {   border-color: var(--black-30); }
+.dark-mode .dm-b--black-20 {   border-color: var(--black-20); }
+.dark-mode .dm-b--black-10 {   border-color: var(--black-10); }
+.dark-mode .dm-b--black-05 {   border-color: var(--black-05); }
+.dark-mode .dm-b--black-025 {   border-color: var(--black-025); }
+.dark-mode .dm-b--black-0125 {   border-color: var(--black-0125); }
+
+.dark-mode .dm-b--dark-red { border-color: var(--dark-red); }
+.dark-mode .dm-b--red { border-color: var(--red); }
+.dark-mode .dm-b--light-red { border-color: var(--light-red); }
+.dark-mode .dm-b--orange { border-color: var(--orange); }
+.dark-mode .dm-b--gold { border-color: var(--gold); }
+.dark-mode .dm-b--yellow { border-color: var(--yellow); }
+.dark-mode .dm-b--light-yellow { border-color: var(--light-yellow); }
+.dark-mode .dm-b--purple { border-color: var(--purple); }
+.dark-mode .dm-b--light-purple { border-color: var(--light-purple); }
+.dark-mode .dm-b--dark-pink { border-color: var(--dark-pink); }
+.dark-mode .dm-b--hot-pink { border-color: var(--hot-pink); }
+.dark-mode .dm-b--pink { border-color: var(--pink); }
+.dark-mode .dm-b--light-pink { border-color: var(--light-pink); }
+.dark-mode .dm-b--dark-green { border-color: var(--dark-green); }
+.dark-mode .dm-b--green { border-color: var(--green); }
+.dark-mode .dm-b--light-green { border-color: var(--light-green); }
+.dark-mode .dm-b--navy { border-color: var(--navy); }
+.dark-mode .dm-b--dark-blue { border-color: var(--dark-blue); }
+.dark-mode .dm-b--blue { border-color: var(--blue); }
+.dark-mode .dm-b--light-blue { border-color: var(--light-blue); }
+.dark-mode .dm-b--lightest-blue { border-color: var(--lightest-blue); }
+.dark-mode .dm-b--washed-blue { border-color: var(--washed-blue); }
+.dark-mode .dm-b--washed-green { border-color: var(--washed-green); }
+.dark-mode .dm-b--washed-yellow { border-color: var(--washed-yellow); }
+.dark-mode .dm-b--washed-red { border-color: var(--washed-red); }
+
+.dark-mode .dm-b--transparent { border-color: var(--transparent); }
+.dark-mode .dm-b--inherit { border-color: inherit; }
+.dark-mode .dm-b--initial { border-color: initial; }
+.dark-mode .dm-b--unset { border-color: unset; }
